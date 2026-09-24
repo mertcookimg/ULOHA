@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use ULOHA in your research, please cite the paper below."
+title: "ULOHA: An Underwater Bimanual Robot System for Robot Learning"
+type: software
+authors:
+  - family-names: Kobayashi
+    given-names: Masato
+  - family-names: Tsunoori
+    given-names: Takeru
+repository-code: "https://github.com/mertcookimg/ULOHA"
+url: "https://mertcookimg.github.io/uloha/"
+abstract: >-
+  Official project hub for ULOHA, an underwater bimanual robot learning
+  platform. Hardware and software releases are under preparation;
+  this repository currently contains project information and media.
+preferred-citation:
+  type: article
+  title: "ULOHA: An Underwater Bimanual Robot System for Robot Learning"
+  authors:
+    - family-names: Kobayashi
+      given-names: Masato
+    - family-names: Tsunoori
+      given-names: Takeru
+  year: 2026
+  journal: arXiv
+  doi: "10.48550/arXiv.2609.19200"
+  url: "https://arxiv.org/abs/2609.19200"
