@@ -35,7 +35,7 @@ ULOHA is an underwater bimanual robot learning platform that connects custom lea
 
 ULOHA uses custom-designed leader and follower structures with waterproof follower actuators. Design files, a bill of materials, and build instructions are being prepared for release.
 
-### Software
+## Software
 
 ULOHA software is based on [LeRobot](https://github.com/huggingface/lerobot), which we modified and extended for our underwater robot hardware, teleoperation, demonstration recording, policy training, and deployment. These ULOHA-specific modifications are maintained separately from the upstream LeRobot project. This repository will link to the software release once its scope and distribution are finalized.
 
